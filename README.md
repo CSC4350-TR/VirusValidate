@@ -1,2 +1,0 @@
-# VirusValidate
-Team5
