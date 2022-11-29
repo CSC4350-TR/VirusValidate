@@ -1,0 +1,25 @@
+
+body
+{
+margin-right:auto;
+background-color: white;
+color: black;
+}
+h1
+{
+    text-align: center;
+}
+#title
+{
+    background-color: skyblue;
+    text-align: center;
+}
+input[type=submit]
+{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    background-color: skyblue;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+}
