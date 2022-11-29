@@ -1,0 +1,15 @@
+.content {
+	max-width: 500px;
+  	margin: auto;
+}
+
+body {
+	font-family:verdana;
+}
+
+#center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
