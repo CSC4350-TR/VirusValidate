@@ -1,6 +1,7 @@
-
 body
 {
+margin:0;
+padding:0;
 margin-right:auto;
 background-color: white;
 color: black;
@@ -9,17 +10,34 @@ h1
 {
     text-align: center;
 }
-#title
+.header
 {
-    background-color: skyblue;
+    box-sizing: border-box;
+    background-image: linear-gradient(to right, lightblue, #d59bf6);
+    border: .5px solid black;
     text-align: center;
+    font-size: 24px;
+    color: white;
+    font-family: Montserrat,sans-serif;
+    border-radius: 20px;
+}
+footer
+{
+  width: 50px;
+  height: 50px;
 }
 input[type=submit]
 {
     border: 0;
+    border-radius: 20;
     line-height: 2.5;
     padding: 0 20px;
     background-color: skyblue;
-    color: white;
+    color: black;
     text-shadow: 1px 1px 1px #000;
+}
+form { 
+    font-family: Verdana;
+    margin: 0 auto; 
+    width:250px;
 }

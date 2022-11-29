@@ -1,13 +1,17 @@
 <html>
+<head>
+	<link rel="stylesheet" href="style.css">
+</head>
 <body>
+	<div class=header>
+		<h1> Welcome to Virus Validate! </h1>
+<h4> Please enter the following information to proceed. </h4>
+</div>
 <?php
 	define('DB_HOST','sql109.epizy.com');
 	define('DB_NAME','epiz_33095844');
 	define('DB_USER','uXNvfTTzUdCI6Y');
 	define('DB_PASSWORD','epiz_33095844_virus_validate_gsu_2022');
-
-    echo "<h1> Welcome to Virus Validate! </h1>";
-    echo "<h4> Please enter the following information to proceed. </h4>";
 
 	function login($firstname, $crn) {
 		// Create connection
@@ -41,13 +45,13 @@
 		$conn->close();
 	}
 ?>
-
 <form method="POST">
+	<p></p>
 	<label for="name">Name:</label><br>
-	<input type="text" name="name"><br>
+	<input type="text" name="name"><br><br>
 	<label for="crn">CRN:</label><br>
-	<input type="text" name="crn"><br>
-	<input type="submit" value="submit">
+	<input type="text" name="crn"><br><br>
+	<input type="submit" value="submit" class>
 </form>
 
 <?php
@@ -56,4 +60,7 @@
 	}
 ?>
 </body>
+<footer>
+			<img src="image/vvlogo.png" alt="logo" />
+</footer>
 </html>
