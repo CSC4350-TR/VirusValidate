@@ -1,4 +1,3 @@
-![Virust Validate Logo](/image/vvlogo.png =300*300 "Logo")
 # Virus Validate
 **Team members:**
 
