@@ -1,2 +1,4 @@
 # Virus Validate
-Team5
+Team members: 
+-James Bui
+-Sonya Shin
