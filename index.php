@@ -47,10 +47,10 @@
 ?>
 <form method="POST">
 	<p></p>
-	<label for="name">Name:</label><br>
-	<input type="text" name="name"><br><br>
-	<label for="crn">CRN:</label><br>
-	<input type="text" name="crn"><br><br>
+	<label for="name">Name</label><br>
+	<input type="text" name="name" placeholder="Your Name"><br>
+	<label for="crn">CRN</label><br>
+	<input type="text" name="crn"  placeholder="Your CRN"><br>
 	<input type="submit" value="submit" class="submit">
 </form>
 

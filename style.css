@@ -17,15 +17,17 @@ h1
     border: .5px solid black;
     text-align: center;
     font-size: 24px;
-    color: black;
+    color: white;
     font-family: Montserrat,sans-serif;
     border-radius: 20px;
 }
 .images
 {
-    float:right;
-    max-width: 50%;
-    max-height: 50%;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    max-width: 18%;
+    max-height: 18%;
 }
 .submit
 {
@@ -33,6 +35,7 @@ h1
     border: 0;
     height: px;
     border-radius: 5px;
+    margin: 14px 0;
     line-height: 2.5;
     padding: 0 20px;
     background-color: black;
@@ -45,7 +48,12 @@ h1
 .submit:hover {
   opacity:1
 }
-
+input[type=text]
+{
+    box-sizing: border-box;
+    margin: 9px 0;
+    padding: 5px 5px;
+}
 form { 
     font-family: Verdana;
     margin: 0 auto; 
