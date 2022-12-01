@@ -13,7 +13,7 @@ Justin Djojomartono
 ## Link to website
 [Virus Validate](http://virusvalidate.rf.gd/?i=1)
 
-## Link to presntation
+## Link to presentation
 [Virus Validate](https://docs.google.com/presentation/d/e/2PACX-1vSj6ON0A_zTWgtfOFnlfYk9gtL6iHvxYEu9pCH8H7uDO97Ap6Xq_1XFs550RkUnXWo1ZkJVxf4_4M07/pub?start=false&loop=false&delayms=3000)
 <br>
 <br>
