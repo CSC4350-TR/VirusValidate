@@ -51,7 +51,7 @@
 	<input type="text" name="name"><br><br>
 	<label for="crn">CRN:</label><br>
 	<input type="text" name="crn"><br><br>
-	<input type="submit" value="submit" class>
+	<input type="submit" value="submit" class="submit">
 </form>
 
 <?php
@@ -59,8 +59,8 @@
 		login($_POST['name'], $_POST['crn']);
 	}
 ?>
+<div>
+			<img class = "images" src="image/vvlogo.png" alt="logo" />
+	</div>
 </body>
-<footer>
-			<img src="image/vvlogo.png" alt="logo" />
-</footer>
 </html>

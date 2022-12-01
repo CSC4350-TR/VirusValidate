@@ -17,25 +17,35 @@ h1
     border: .5px solid black;
     text-align: center;
     font-size: 24px;
-    color: white;
+    color: black;
     font-family: Montserrat,sans-serif;
     border-radius: 20px;
 }
-footer
+.images
 {
-  width: 50px;
-  height: 50px;
+    float:right;
+    max-width: 50%;
+    max-height: 50%;
 }
-input[type=submit]
+.submit
 {
+    display: inline-block;
     border: 0;
-    border-radius: 20;
+    height: px;
+    border-radius: 5px;
     line-height: 2.5;
     padding: 0 20px;
-    background-color: skyblue;
-    color: black;
+    background-color: black;
+    color: white;
     text-shadow: 1px 1px 1px #000;
+    opacity: .7;
+    transition: .5;
+    cursor: pointer;
 }
+.submit:hover {
+  opacity:1
+}
+
 form { 
     font-family: Verdana;
     margin: 0 auto; 
