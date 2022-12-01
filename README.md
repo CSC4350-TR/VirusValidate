@@ -14,7 +14,7 @@ Justin Djojomartono
 [Virus Validate](http://virusvalidate.rf.gd/?i=1)
 
 ## Link to presentation
-[Virus Validate](https://docs.google.com/presentation/d/e/2PACX-1vSj6ON0A_zTWgtfOFnlfYk9gtL6iHvxYEu9pCH8H7uDO97Ap6Xq_1XFs550RkUnXWo1ZkJVxf4_4M07/pub?start=false&loop=false&delayms=3000)
+[Virus Validate Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSj6ON0A_zTWgtfOFnlfYk9gtL6iHvxYEu9pCH8H7uDO97Ap6Xq_1XFs550RkUnXWo1ZkJVxf4_4M07/pub?start=false&loop=false&delayms=3000)
 <br>
 <br>
 **Test login example on page 6 on powerpoint.** 
